@@ -1,0 +1,5 @@
+# Ignore the large dataset file
+ITSM_Dataset.csv
+
+# Ignore Jupyter Notebook auto-save checkpoints
+.ipynb_checkpoints/
